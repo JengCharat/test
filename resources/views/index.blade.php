@@ -16,10 +16,10 @@
     <div class="list">
         <ul>
             <li>
-                <a href="#">xxx</a>
-                <a href="#">xxx</a>
-                <a href="#">xxx</a>
-                <a href="#">xxx</a>
+                <a href="#">test</a>
+                <a href="#">test</a>
+                <a href="#">test</a>
+                <a href="#">test</a>
             </li>
         </ul>
     </div>
