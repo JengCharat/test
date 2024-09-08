@@ -10,6 +10,9 @@
     <div class="logo">
         <h1>LOGO</h1>
     </div>
+    <div class="test">
+        <h1>this is main</h1>
+    </div>
     <div class="list">
         <ul>
             <li>
