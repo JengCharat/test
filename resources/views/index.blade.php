@@ -10,5 +10,15 @@
     <div class="logo">
         <h1>LOGO</h1>
     </div>
+    <div class="list">
+        <ul>
+            <li>
+                <a href="#">xxx</a>
+                <a href="#">xxx</a>
+                <a href="#">xxx</a>
+                <a href="#">xxx</a>
+            </li>
+        </ul>
+    </div>
 </body>
 </html>
